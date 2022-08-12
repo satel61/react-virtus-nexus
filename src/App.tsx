@@ -1,11 +1,15 @@
 
-import './styles/global.scss';
+import { Home } from './pages/Home';
+import './styles/global.css';
 
 export default function App() {
 
 
   return (
-    <h1>EM CONSTRUÇÃO</h1>
+   <>
+      <Home/>
+
+   </>
   )
 }
 

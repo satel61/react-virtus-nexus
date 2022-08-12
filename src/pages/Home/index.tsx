@@ -1,5 +1,19 @@
+import { Header } from "../../components/Header";
+
+
 export function Home() {
     return (
-        <h1>TESTE</h1>
+        <>
+        <Header/>
+
+        <main>
+            <div>
+
+            </div>
+            <img src="" alt="" />
+        </main>
+        <footer></footer>
+        </>
+    
     )
 }
